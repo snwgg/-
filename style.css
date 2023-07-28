@@ -14,4 +14,13 @@
 }
 .body{
   color: black;
+  display: 
+  flex;
+}
+
+.beneficios-img{
+  display: flex;
+}
+.receitas-img{
+  display: flex;
 }
