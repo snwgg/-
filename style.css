@@ -29,8 +29,10 @@
 }
 .lista-2{
   align-items: center;
+  text-align: center;
 }
 .texto-1{
   align-items: center;
 display: flex;
+text-align: center;
 }
