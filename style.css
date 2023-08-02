@@ -33,3 +33,11 @@
 .texto-1{
 text-align: center;
 }
+.botao-site-2{
+  padding: 10px 20px;
+  background-color: #8733ff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
