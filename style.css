@@ -1,77 +1,66 @@
-body {
-  font-family: Arial, sans-serif;
-  background-color: #f5f5f5;
-  margin: 0;
-  padding: 0;
-}
 
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
 
-header {
-  background-color: #ff5733;
-  text-align: center;
-  padding: 20px 0;
-}
+    header {
+      background-color: #ff5733;
+      padding: 20px 0;
+    }
 
-.cabecalho_titulo {
-  font-size: 36px;
-  color: white;
-  margin: 0;
-}
+    .cabeçalho_titulo {
+      font-size: 36px;
+      color: #fff;
+    }
 
-.Titulo1, .Titulo2 {
-  text-align: center;
-  color: #333;
-  margin-top: 20px;
-}
+    .Titulo {
+      font-size: 28px;
+      margin-top: 20px;
+    }
 
-.beneficios-img, .receitas-img {
-  max-width: 100%;
-  height: auto;
-  margin: 20px 0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
+    .beneficios-img,
+    .receitas-img {
+      max-width: 100%;
+      height: auto;
+    }
 
-.texto-1, .texto-2 {
-  font-size: 16px;
-  line-height: 1.5;
-  text-align: justify;
-  margin-bottom: 20px;
-}
+    .texto-1,
+    .texto-2 {
+      font-size: 18px;
+      color: #333;
+      text-align: center;
+      margin: 20px;
+    }
 
-ul {
-  list-style-type: disc;
-  padding-left: 20px;
-}
+    .texto-2 ul {
+      list-style-type: none;
+      padding: 0;
+    }
 
-button {
-  background-color: #ff5733;
-  color: white;
-  border: none;
-  padding: 10px 20px;
-  font-size: 18px;
-  cursor: pointer;
-}
+    .texto-2 ul li {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
 
-.botao-pg-2 {
-  background-color: #333;
-  margin-top: 20px;
-}
+    .receitas {
+      text-decoration: none;
+    }
 
-.receitas {
-  text-decoration: none;
-  display: inline-block;
-}
+    .receitas button,
+    .botao-pg-2 {
+      background-color: #ff5733;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 20px;
+      cursor: pointer;
+      margin-top: 20px;
+    }
 
-.botao-pg-2 {
-  text-decoration: none;
-  display: inline-block;
-  background-color: #ff5733;
-  color: white;
-  padding: 10px 20px;
-  margin-top: 20px;
-}
+    .botao-pg-2 {
+      background-color: #333;
+    }
